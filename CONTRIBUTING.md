@@ -16,3 +16,9 @@ To install the dependencies listed in requirements.txt, run:
 ```shell
 pip install -r requirements.txt
 ```
+## Handle Credits
+
+This command extracts all packages from **requirements.txt**.
+```shell
+pip-licenses --output-file CREDITS.md --format=markdown --with-urls --with-authors --with-description
+```

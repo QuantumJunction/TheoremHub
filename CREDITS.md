@@ -1,33 +1,11 @@
-# Credits
-
-This project owes its success to the following people and organizations:
-
-## Contributors
-
-
-
-## Third-party Libraries
-- [django-ninja](https://github.com/vitalik/django-ninja) we are using this package for APIs and database communication
-
-
-## Financial Support
-
-
-
-## Special Thanks
-
-
-
-## License
-
-
-
-## Acknowledgments
-
-
-
-### Closing
-
-This document is a way to publicly appreciate the contributions of those who have helped make this project what it is today. Thank you!
-
-***Generated using [CREDITS Generator](https://scottgriv.github.io/CREDITS-Generator/).***
+| Name              | Version | License     | Author                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | URL                                                | Description                                                                                      |
+|-------------------|---------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Django            | 5.2.6   | BSD License | Django Software Foundation <foundation@djangoproject.com>                                                                                                                                                                                                                                                                                                                                                                                                                                               | https://www.djangoproject.com/                     | A high-level Python web framework that encourages rapid development and clean, pragmatic design. |
+| annotated-types   | 0.7.0   | MIT License | Adrian Garcia Badaracco <1755071+adriangb@users.noreply.github.com>, Samuel Colvin <s@muelcolvin.com>, Zac Hatfield-Dodds <zac@zhd.dev>                                                                                                                                                                                                                                                                                                                                                                 | https://github.com/annotated-types/annotated-types | Reusable constraint types to use with typing.Annotated                                           |
+| asgiref           | 3.9.1   | BSD License | Django Software Foundation                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | https://github.com/django/asgiref/                 | ASGI specs, helper code, and adapters                                                            |
+| django-ninja      | 1.4.3   | MIT License | Vitaliy Kucheryaviy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | https://django-ninja.dev                           | Django Ninja - Fast Django REST framework                                                        |
+| pydantic          | 2.11.9  | MIT License | Samuel Colvin <s@muelcolvin.com>, Eric Jolibois <em.jolibois@gmail.com>, Hasan Ramezani <hasan.r67@gmail.com>, Adrian Garcia Badaracco <1755071+adriangb@users.noreply.github.com>, Terrence Dorsey <terry@pydantic.dev>, David Montague <david@pydantic.dev>, Serge Matveenko <lig@countzero.co>, Marcelo Trylesinski <marcelotryle@gmail.com>, Sydney Runkle <sydneymarierunkle@gmail.com>, David Hewitt <mail@davidhewitt.io>, Alex Hall <alex.mojaki@gmail.com>, Victorien Plot <contact@vctrn.dev> | https://github.com/pydantic/pydantic               | Data validation using Python type hints                                                          |
+| pydantic_core     | 2.33.2  | MIT License | Samuel Colvin <s@muelcolvin.com>, Adrian Garcia Badaracco <1755071+adriangb@users.noreply.github.com>, David Montague <david@pydantic.dev>, David Hewitt <mail@davidhewitt.dev>, Sydney Runkle <sydneymarierunkle@gmail.com>, Victorien Plot <contact@vctrn.dev>                                                                                                                                                                                                                                        | https://github.com/pydantic/pydantic-core          | Core functionality for Pydantic validation and serialization                                     |
+| sqlparse          | 0.5.3   | BSD License | Andi Albrecht <albrecht.andi@gmail.com>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | https://github.com/andialbrecht/sqlparse           | A non-validating SQL parser.                                                                     |
+| typing-inspection | 0.4.1   | UNKNOWN     | Victorien Plot <contact@vctrn.dev>                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | https://github.com/pydantic/typing-inspection      | Runtime typing introspection tools                                                               |
+| typing_extensions | 4.15.0  | UNKNOWN     | "Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee" <levkivskyi@gmail.com>                                                                                                                                                                                                                                                                                                                                                                                                                   | https://github.com/python/typing_extensions        | Backported and Experimental Type Hints for Python 3.9+                                           |
